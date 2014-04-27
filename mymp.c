@@ -1,18 +1,5 @@
-// tutorial07.c
-// A pedagogical video player that really works! Now with seeking features.
-//
-// This tutorial was written by Stephen Dranger (dranger@gmail.com).
-//
-// Code based on FFplay, Copyright (c) 2003 Fabrice Bellard,
-// and a tutorial by Martin Bohme (boehme@inb.uni-luebeckREMOVETHIS.de)
-// Tested on Gentoo, CVS version 5/01/07 compiled with GCC 4.1.1
-//
-// Use the Makefile to build all the samples.
-//
-// Run using
-// tutorial07 myvideofile.mpg
-//
-// to play the video.
+// mymp.c
+// A pedagogical video player that really works!
 
 #include <libavcodec/avcodec.h>
 #include <libavformat/avformat.h>

@@ -1,5 +1,5 @@
 A fully functional MPEG video player.
 
-Hope you will find this crap useful!
+Hope you will find this gadget useful!
 
 -Rui
